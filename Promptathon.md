@@ -2,8 +2,11 @@
 
 ## Get Involved in Humanitarian AI Research
 
-Humanitarian actors are channeling information on crises, needs and aid activities through open data sharing frameworks like IATI and the Humanitarian Data Exchange and via platforms like ReliefWeb. Researchers studying how large language model powered question-answering applications can traverse the information need hundreds of sample questions to test their machine learning models.
+Humanitarian actors are channeling information through platforms like ReliefWeb and open data sharing frameworks like IATI and the Humanitarian Data Exchange. 
+Researchers studying how emerging generative AI powered question-answering applications can answer complex questions posed by humanitarian actors require sample questions to train, fine-tune and test their machine learning models.
 
 ### Humanitarian AI Promptathons
 
-Omdena and the the Humanitarian AI Meetup Community are working together to crowdsource sample questions that humanitarian acotrs might like to ask a generative AI powered chatbot.
+Volunteers from [Omdena](https://www.omdena.com/) and the Humanitarian AI Meetup Community are working together to organize **Humanitarian AI Promptathons** to crowdsource questions needed by researchers.
+
+We’re inviting our members and also staff from humanitarian and development organizations from the grassroots level up to the United Nations to join in the project and help contribute questions. Participants can get started by submitting three easy questions via this [Google Form](https://forms.gle/wh8SXVyhWro46yA8A). Next, participants can use the form to share their names and email addresses to share their interest in getting more involved in the project. Volunteers will help contribute and label a wide range of questions and help evaluate questions and generate output notes as well as join in testing machine learning models.
