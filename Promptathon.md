@@ -2,7 +2,7 @@
 
 ## Get Involved in Humanitarian AI Research
 
-Humanitarian actors are channeling information through platforms like ReliefWeb and open data sharing frameworks like IATI and the Humanitarian Data Exchange. 
+Humanitarian actors are channeling information through platforms like [ReliefWeb](https://reliefweb.int/) and open data sharing frameworks like [IATI](https://iatistandard.org/en/) and the [Humanitarian Data Exchange](https://data.humdata.org/). 
 Researchers studying how emerging generative AI powered question-answering applications can answer complex questions posed by humanitarian actors require sample questions to train, fine-tune and test their machine learning models.
 
 ### Humanitarian AI Promptathons
