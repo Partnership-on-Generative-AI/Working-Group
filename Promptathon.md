@@ -1,11 +1,11 @@
 ![Humanitarian AI Promptathon](https://github.com/Partnership-on-Generative-AI/Workspace/blob/main/media/Promptathon_github.png)
 
-## Get Involved in Humanitarian AI Research
+# Get Involved in Humanitarian AI Research
 
 Humanitarian actors are channeling information through platforms like [ReliefWeb](https://reliefweb.int/) and through open data sharing frameworks like [IATI](https://iatistandard.org/en/) and the [Humanitarian Data Exchange](https://data.humdata.org/). 
 Researchers studying how new generative AI powered question-answering applications can traverse these information sources to answer complex questions posed by humanitarian actors require sample questions to train, fine-tune and test their machine learning models.
 
-### Humanitarian AI Promptathons
+## Humanitarian AI Promptathons
 
 Volunteers from [Omdena](https://www.omdena.com/) and from the Humanitarian AI Meetup Community are working together to organize **Humanitarian AI Promptathons** to help crowdsource questions needed by researchers.
 
