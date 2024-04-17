@@ -16,7 +16,6 @@ We’re inviting staff from humanitarian organizations from the grassroots level
 Periodically, we will be organizing live Humanitarian AI Promptathons. These informal **work sessions** will give participants opportunities to get to know one another and help generate and discuss new questions to add to our list. For more information, contact: team (at) humanitarianai.org
 
 | Next Humanitarian AI Promptathon | Learn More |
-
 | ---- | ---- | ---- |
 | April 27th, 2024 | https://www.meetup.com/humanitarian-ai/events/300440133/ |
 | May 8th, 2024 | Stay tuned for more information |
