@@ -1,4 +1,4 @@
-![Humanitarian AI Promptathon](https://github.com/Partnership-on-Generative-AI/Workspace/blob/main/media/Promptathon_github.png)
+![Humanitarian AI Promptathon](https://storage.googleapis.com/pgai/Promptathon_github.png)
 
 # Get Involved in Humanitarian AI Research
 
