@@ -11,5 +11,5 @@ The Working Group is an all-volunteer initiative coordinated by Cecilia Cartling
 
 ## Humanitarian AI Promptathon
 
-Currently, the working group is participating in organizing [Humanitarian AI Promptathons](https://github.com/Partnership-on-Generative-AI/Working-Group/blob/main/Promptathon.md) focusing on collecting sample questions that staff from humanitarian organizations might like to ask new question-answering AI applications that are needed by researchers to train and test machine learning models.
+Currently, the working group is participating in organizing [Humanitarian AI Promptathons](https://github.com/Partnership-on-Generative-AI/Working-Group/blob/main/Promptathon.md) focusing on collecting sample questions that staff from humanitarian organizations might like to ask new question-answering AI applications. The questions are needed by researchers to train and test machine learning models.
 
