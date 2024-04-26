@@ -1,3 +1,5 @@
+![Roster Graph](https://storage.googleapis.com/pgai/Roster_graph.png)
+
 # Humanitarian AI Roster
 
 It's difficult for individuals and organizations interested in humanitarian applications of artificial intelligence to get to know one another and develop working relationships on a peer-to-peer level. The **Humanitarian AI working Group** is principally interested in strengthening and expanding these relationships and in providing members with useful resources, particularly on a technical level.
