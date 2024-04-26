@@ -5,5 +5,7 @@ It's difficult for staff from organizations interested in humanitarian applicati
 
 Through the working group and the group's [Humanitarian AI Roster](https://github.com/Partnership-on-Generative-AI/Working-Group/blob/main/Roster.md), members can share information about themselves, their organizations, internal AI discussions, project and event news and seek technical assistance through the [Partnership on Generative AI for Humanitarian Applications](https://github.com/Partnership-on-Generative-AI/About), a lightweight code-sharing initiative.
 
-The Working Group is an all-volunteer initiative coordinated by Cecilia Cartling Wallén, Brent Phillips and others, launched in collaboration with the **Humanitarian AI Today** podcast series. For more information, contact: team(at)pgai.dev
+## Get Involved
+
+The Working Group is an all-volunteer initiative coordinated by Cecilia Cartling Wallén, Brent Phillips and others, launched in collaboration with the **Humanitarian AI Today** podcast series. To share your interest in potentially joining the working group, please complete this [Questionnaire](https://forms.gle/zX31SHrjgQ8k9rvN8). For more information, contact: team(at)pgai.dev
 
