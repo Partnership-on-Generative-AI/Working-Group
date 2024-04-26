@@ -8,6 +8,6 @@ Our **Humanitarian AI Roster** provides individuals interested in joining the 
 
 ## Humanitarian AI Roster Questionnaire
 
-We're circulating an initial **questionnaire** to get to know individuals interested in joining the networking initiative. The Google form can be found here: [Questionnaire]()
+We're circulating an initial **questionnaire** to get to know individuals interested in joining the networking initiative. The Google form can be found here: [Questionnaire](https://forms.gle/zX31SHrjgQ8k9rvN8)
 
 The Working Group is an all-volunteer initiative coordinated by Cecilia Cartling Wallén, Brent Phillips and others, launched in collaboration with the **Humanitarian AI Today** podcast series. For more information, contact: team(at)pgai.dev
