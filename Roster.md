@@ -1,4 +1,4 @@
-![Roster Graph](https://storage.googleapis.com/pgai/Roster_graph.png)
+![Roster Graph](https://storage.googleapis.com/pgai/RosterGraph.png)
 
 # Humanitarian AI Roster
 
